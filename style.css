@@ -1,0 +1,26 @@
+#text-format {
+    color: white;
+    font: caption;
+    font-size: 14px;
+}
+
+h3 {
+    background-color:#0e494d;
+    padding: 12px;
+    padding-left: 48px;
+    font-weight: normal;
+}
+
+.text-bg {
+    background-color: #246166;
+    padding: 12px;
+    padding-left: 26px;
+}
+
+.line-spacing {
+    margin-bottom: 0px;
+}
+
+.text-bottom {
+    font-size: 12px;
+}
